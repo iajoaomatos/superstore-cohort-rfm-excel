@@ -1,0 +1,40 @@
+# ---------- Pastas do projeto que não vão para o GitHub ----------
+# (caminhos ancorados à raiz para não apanhar, por exemplo, "base-dados/")
+/analise/dados/
+/docs/
+/output-relatório/
+/output-relatorio/
+/resolucao-manual-excel/
+
+# ---------- Python ----------
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+.pytest_cache/
+.ipynb_checkpoints/
+
+# ---------- Office / Excel: ficheiros temporários e de bloqueio ----------
+~$*
+*.tmp
+*.bak
+*.xlk
+
+# ---------- Sistema operativo e editores ----------
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+*.swp
+*~
+
+# ---------- Segredos e configuração local ----------
+.env
+.env.*
+.claude/settings.local.json
+
+# ---------- Registos ----------
+*.log
