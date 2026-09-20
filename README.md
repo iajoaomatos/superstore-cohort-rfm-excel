@@ -2,6 +2,8 @@
 
 Projeto do Curso de Analista de Dados: Excel para Analista de Dados - CDS.
 
+**[Ver o relatório online](https://iajoaomatos.github.io/superstore-cohort-rfm-excel/relatorio/relatorio.html)**
+
 Análise de Cohort, RFM e desempenho de produtos e localizações sobre 4 anos de encomendas de uma rede de supermercados (janeiro de 2014 a dezembro de 2017), resolvida em Excel e validada em Python.
 
 ## Contexto
@@ -25,9 +27,9 @@ A SuperStore, uma das maiores redes de supermercados do país, enfrenta desafios
 | Pedido no enunciado | Onde está |
 |---|---|
 | Planilha consolidada em Excel | [analises-excel/](analises-excel/): `analise_cohort.xlsx`, `analise_rfm.xlsx` e `analise_produtos_localizacoes.xlsx` |
-| Relatório com principais descobertas | [relatorio/relatorio.html](relatorio/relatorio.html) |
+| Relatório com principais descobertas | [Relatório online](https://iajoaomatos.github.io/superstore-cohort-rfm-excel/relatorio/relatorio.html) ([relatorio/relatorio.html](relatorio/relatorio.html)) |
 
-Para ver o relatório, descarrega o repositório e abre `relatorio/relatorio.html` no browser (no GitHub vê-se apenas o código). O relatório tem uma ligação para cada um dos três ficheiros Excel.
+O relatório está publicado com GitHub Pages no endereço acima; também se pode abrir localmente, descarregando o repositório e abrindo `relatorio/relatorio.html` no browser. O relatório tem uma ligação para cada um dos três ficheiros Excel, que são descarregados ao clicar.
 
 ## Principais resultados
 
